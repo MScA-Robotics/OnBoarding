@@ -24,6 +24,9 @@ Directories in git are called _repositories_. There is a repository for
 each Robotics crew. To create a new repository please contact one of
 the [org admins](https://github.com/orgs/MScA-Robotics/teams/owners/members). 
 
+[Follow these directions](https://help.github.com/en/articles/cloning-a-repository) 
+to clone either using the command line or GitHub Desktop. 
+
 ### Commit a change locally
 
 Once you have the repository locally, create a new branch
